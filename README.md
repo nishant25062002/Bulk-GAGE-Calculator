@@ -1,4 +1,3 @@
-```markdown
 # 🌍 Bulk GAGE Plate Motion Calculator
 
 This project automates the **GAGE Plate Motion Calculator** workflow for bulk geographic data. It allows researchers to extract midpoints from KML line data and compute tectonic plate velocities and azimuths for each point using Euler pole models (like ITRF2020).
@@ -7,12 +6,8 @@ This project automates the **GAGE Plate Motion Calculator** workflow for bulk ge
 
 ## 📁 Project Main Files
 
-├── Midpoint\_Calculator.ipynb             # Extracts midpoints from KML line segments
+├── Midpoint\_Calculator.ipynb             # Extracts midpoints from KML line segments <br/>
 ├── Velocity\_Azimuth\_Calculator.ipynb     # Calculates motion vectors for each midpoint
-
-```
-
-```
 
 ## 🧠 Overview
 
